@@ -4,7 +4,7 @@ This is the official submission for Frontend Battle Round 1 by **DevExplorer**.
 
 Live URL: _To be added after deployment_
 
-Features:
+## Features:
 - Light/Dark Mode
 - Ripple Loader
 - Stats with animated bars
@@ -17,6 +17,3 @@ Features:
 npm install
 npm run dev
 ```
-
----
-Built with ❤️ by DevExplorer.
