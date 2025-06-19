@@ -2,7 +2,7 @@
 
 This is the official submission for Frontend Battle Round 1 by **DevExplorer**.
 
-Live URL: _To be added after deployment_
+Live URL: [https://devexplorer-cmd.netlify.app](https://devexplorer-cmd.netlify.app)
 
 Features:
 - Light/Dark Mode
